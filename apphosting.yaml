@@ -1,0 +1,8 @@
+# apphosting.yaml
+# Configures environment variables for Firebase App Hosting
+
+env:
+  - variable: NEXT_PUBLIC_SUPABASE_URL
+    value: https://yowqffphdlqpakzhtdlb.supabase.co
+  - variable: NEXT_PUBLIC_SUPABASE_ANON_KEY
+    value: sb_publishable_-jFke6QCm31cuE4kGhZweg_CUHFCDsk
